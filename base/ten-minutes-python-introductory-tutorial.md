@@ -590,4 +590,4 @@ Xiao Ai  is speaking.
 
 ## 说明
 
-本文首发于 GitHub 仓库https://github.com/ataola/a2python，线上阅读地址：https://zhengjiangtao.cn/a2python/，转载请注明出处，谢谢！
+本文首发于 GitHub 仓库`https://github.com/ataola/a2python`，线上阅读地址：`https://zhengjiangtao.cn/a2python/`，转载请注明出处，谢谢！

@@ -4,11 +4,11 @@ ataola,amile,python, 今年定了个小目标和 amile 一起学 Python
 
 ## 基础知识
 
+- [x] [Python 之禅](base/the-zen-of-python.md)
+
 - [x] [基础环境搭建](base/env.md)
 
 - [x] [Python 十分钟入门教程](base/ten-minutes-python-introductory-tutorial.md)
-
-- [x] [Python 之禅](base/the-zen-of-python.md)
 
 ## 了解更多
 
