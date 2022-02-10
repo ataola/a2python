@@ -1,6 +1,28 @@
 # a2python
 
-ataola,amile,python, 今年定了个小目标和 amile 一起学 Python
+Python学习
+
+## 写在前面
+
+### 本仓库相关
+
+线上阅读地址：https://zhengjiangtao.cn/a2python
+
+仓库地址：https://github.com/ataola/a2python
+
+### JavaScript 姊妹篇
+
+线上阅读地址：https://zhengjiangtao.cn/coding/
+
+仓库地址：https://github.com/ataola/coding
+
+### Typescript 姊妹篇
+
+线上阅读地址：https://zhengjiangtao.cn/coding-ts/
+
+仓库地址： https://github.com/ataola/coding-ts
+
+_额，也许随着年龄的增长，还会更新其他东西吧_
 
 ## 基础知识
 
