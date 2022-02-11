@@ -37,3 +37,8 @@ _额，也许随着年龄的增长，还会更新其他东西吧_
 欢迎关注鄙人的公众号，一起学习，共同成长:smile:
 
 ![wechat qrcode](base/img/wechat-cnroadbridge.jpg)
+
+
+## 参考文献
+
+* 《Python数据结构学习笔记 - 张清云》
