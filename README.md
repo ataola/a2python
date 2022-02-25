@@ -32,6 +32,13 @@ _额，也许随着年龄的增长，还会更新其他东西吧_
 
 - [x] [Python 十分钟入门教程](base/ten-minutes-python-introductory-tutorial.md)
 
+## PAT
+
+### B
+
+- [x] B1001、[害死人不偿命的(3n + 1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528)
+
+
 ## 了解更多
 
 欢迎关注鄙人的公众号，一起学习，共同成长:smile:
