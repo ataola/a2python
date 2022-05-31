@@ -46,7 +46,7 @@ def insert_user(name, mobile):
 
 # 删除联系人
 def delete_user(name):
-    del users[name]
+    users.pop(name)
     print('联系人', name, '删除成功！')
 
 
