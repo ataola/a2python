@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-'''
-@Project ：a2python 
+"""
+@Project ：a2python
 @File    ：b1001.py
 @Author  ：ataola
-'''
+"""
 
 if __name__ == '__main__':
     num = input()

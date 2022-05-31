@@ -1,11 +1,11 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-'''
-@Project ：a2python 
+"""
+@Project ：a2python
 @File    ：time-o.py
 @Author  ：ataola
 @Description ：O（1） < O（logn） < O（n） < O（nlogn） < O（n^2 ） < O（n^3 ）< O（2^n ） < O（n！） < O（n^n ）
-'''
+"""
 
 print('========O(1) Begin========')
 print('Hello a2python')  # O(1)

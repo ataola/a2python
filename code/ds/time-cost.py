@@ -1,10 +1,10 @@
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
-'''
-@Project ：a2python 
+"""
+@Project ：a2python
 @File    ：time-cost.py
 @Author  ：ataola
-'''
+"""
 
 from timeit import Timer
 
