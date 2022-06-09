@@ -16,8 +16,13 @@ Python学习
 
 - [x] B1001、[害死人不偿命的(3n + 1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528)
 
+## 碎片化学习
 
-## 其他
+### 正则
+
+- [去除字符串中的重复单词](./code/regexp/01-duplicate-str.py)
+
+### 程序设计
 
 - [x] [设计一个通讯录程序](./code/demo/2022-05-31-address-book.py)
 
@@ -26,7 +31,6 @@ Python学习
 欢迎关注鄙人的公众号，关于我 -> 加群学习，共同成长:smile:
 
 ![wechat qrcode](base/img/wechat-cnroadbridge.jpg)
-
 
 ## 参考文献
 
