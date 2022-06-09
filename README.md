@@ -10,6 +10,8 @@ Python学习
 
 - [x] [Python 十分钟入门教程](base/ten-minutes-python-introductory-tutorial.md)
 
+- [x] [正则表达式在各大编辑器中均有良好表现](base/regexp-in-editor.md)
+
 ## PAT
 
 ### B
@@ -20,11 +22,11 @@ Python学习
 
 ### 正则
 
-- [去除字符串中的重复单词](./code/regexp/01-duplicate-str.py)
+- [x] [去除字符串中的重复单词](/code/regexp/01-duplicate-str.py)
 
 ### 程序设计
 
-- [x] [设计一个通讯录程序](./code/demo/2022-05-31-address-book.py)
+- [x] [设计一个通讯录程序](/code/demo/2022-05-31-address-book.py)
 
 ## 了解更多
 
