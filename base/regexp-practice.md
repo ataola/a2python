@@ -9,3 +9,11 @@
 code: [regex-phone](../code/regexp/02-phone.py)
 
 ![phone](img/08-regexp-phone.png)
+
+## P2. 贪婪模式和非贪婪模式
+
+code: [mode](../code/regexp/03-mode.py)
+
+## P3. 取出文章中的单词，双引号下算一个
+
+code: [get-word](../code/regexp/04-get-word.py)
