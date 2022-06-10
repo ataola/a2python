@@ -12,6 +12,8 @@ Python学习
 
 - [x] [正则表达式在各大编辑器中均有良好表现](base/regexp-in-editor.md)
 
+- [x] [正则表达式练习](base/regexp-practice.md)
+
 ## PAT
 
 ### B
@@ -37,3 +39,4 @@ Python学习
 ## 参考文献
 
 * 《Python数据结构学习笔记 - 张清云》
+* 《正则表达式入门课 - 极客时间》
