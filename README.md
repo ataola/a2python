@@ -22,10 +22,6 @@ Python学习
 
 ## 碎片化学习
 
-### 正则
-
-- [x] [去除字符串中的重复单词](/code/regexp/01-duplicate-str.py) ![code](https://img.shields.io/badge/-code-blue)
-
 ### 程序设计
 
 - [x] [设计一个通讯录程序](/code/demo/2022-05-31-address-book.py) ![code](https://img.shields.io/badge/-code-blue)
