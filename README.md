@@ -34,6 +34,7 @@ Python学习
 
 - [x] [处理Excel](/base/play-excel.md) ![article](https://img.shields.io/badge/-article-blue)
 - [x] [处理Word](/base/play-word.md) ![article](https://img.shields.io/badge/-article-blue)
+- [x] [图片文字识别](/base/ai-in-pic.md) ![article](https://img.shields.io/badge/-article-blue)
 
 ## 了解更多
 
