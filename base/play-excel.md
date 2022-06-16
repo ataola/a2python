@@ -40,4 +40,3 @@ excel.Workbooks.Open(filename, UpdateLinks=False, ReadOnly=False, Format=None, P
 ## 注意事项
 
 - 2.01版本的xlrd不支持xlsx文件，只支持xls文件 ,亲测装旧版本的可用`pip install xlrd==1.2.0`
-- 

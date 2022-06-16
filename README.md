@@ -18,17 +18,22 @@ Python学习
 
 ### PAT
 
-- [x] B1001、[害死人不偿命的(3n + 1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) ![link](https://img.shields.io/badge/-link-blue)
+- [x] 
+  B1001、[害死人不偿命的(3n + 1)猜想](https://pintia.cn/problem-sets/994805260223102976/problems/994805325918486528) ![link](https://img.shields.io/badge/-link-blue)
 
 ## 碎片化学习
 
 ### 程序设计
 
-- [x] [设计一个通讯录程序](/code/demo/2022-05-31-address-book.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [设计一个通讯录程序](/code/demo/01-address-book.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [读取目录](/code/demo/02-read-dir.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [创建目录](/code/demo/04-mkdir.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [时间相关处理](/code/demo/03-time.py) ![code](https://img.shields.io/badge/-code-blue)
 
 ## 文件操作
 
 - [x] [处理Excel](/base/play-excel.md) ![article](https://img.shields.io/badge/-article-blue)
+- [x] [处理Word](/base/play-word.md) ![article](https://img.shields.io/badge/-article-blue)
 
 ## 了解更多
 
