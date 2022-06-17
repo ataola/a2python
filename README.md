@@ -36,6 +36,10 @@ Python学习
 - [x] [处理Word](/base/play-word.md) ![article](https://img.shields.io/badge/-article-blue)
 - [x] [图片文字识别](/base/ai-in-pic.md) ![article](https://img.shields.io/badge/-article-blue)
 
+## 数据处理
+- [x] [分词处理](/base/participle.md) ![article](https://img.shields.io/badge/-article-blue)
+
+
 ## 了解更多
 
 欢迎关注鄙人的公众号，关于我 -> 加群学习，共同成长:smile:
