@@ -29,6 +29,11 @@ Python学习
 - [x] [读取目录](/code/demo/02-read-dir.py) ![code](https://img.shields.io/badge/-code-blue)
 - [x] [创建目录](/code/demo/04-mkdir.py) ![code](https://img.shields.io/badge/-code-blue)
 - [x] [时间相关处理](/code/demo/03-time.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [文本替换](/code/demo/05-str-replace.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [统计字数](/code/demo/06-word-count.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [文件搜索](/code/demo/07-file-search.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [并行计算-计算平方](/code/demo/08-parallel-computing.py) ![code](https://img.shields.io/badge/-code-blue)
+- [x] [文件重命名](/code/demo/09-rename-img.py) ![code](https://img.shields.io/badge/-code-blue)
 
 ## 文件操作
 
@@ -37,8 +42,8 @@ Python学习
 - [x] [图片文字识别](/base/ai-in-pic.md) ![article](https://img.shields.io/badge/-article-blue)
 
 ## 数据处理
-- [x] [分词处理](/base/participle.md) ![article](https://img.shields.io/badge/-article-blue)
 
+- [x] [分词处理](/base/participle.md) ![article](https://img.shields.io/badge/-article-blue)
 
 ## 了解更多
 
